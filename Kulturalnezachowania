@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kulturalne zachowania w klasie 3J</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			text-align: center;
+		}
+kulturalne {
+		color: black;
+		text-align: center;
+		margin: 10px auto;
+		width: 50%;
+		padding: 10px;
+		border: 1px solid black;
+		border-radius: 5px;
+		background-color: #f2f2f2;
+	}
+</style>
+</head>
+<body>
+	<h1>Kulturalne zachowania w klasie 3J</h1>
+	<div class="kulturalne">
+		<h2>Zachowanie 1</h2>
+		<p>Witamy się kulturalnie z nauczycielami i kolegami.</p>
+	</div>
+	<div class="kulturalne">
+		<h2>Zachowanie 2</h2>
+		<p>Uprzejmie zwracamy uwagę na innych podczas lekcji.</p>
+	</div>
+	<div class="kulturalne">
+		<h2>Zachowanie 3</h2>
+		<p>Korzystamy z języka kulturalnego i unikamy przekleństw.</p>
+	</div>
+	<div class="kulturalne">
+		<h2>Zachowanie 4</h2>
+		<p>Jesteśmy punktualni i nie spóźniamy się na lekcje.</p>
+	</div>
+	<div class="kulturalne">
+		<h2>Zachowanie 5</h2>
+		<p>Przestrzegamy zasad dobrego zachowania, np. nie hałassujemy i nie przeszkadzamy innym.</p>
+	</div>
+	<div class="kulturalne">
+		<h2>Zachowanie 6</h2>
+		<p>Jesteśmy empatycznym i wykazujemy się zrozumienie dla innych.</p>
+	</div>
+	<div class="kulturalne">
+		<h2>Zachowanie 7</h2>
+		<p>Wyrażać swoje opinie w sposób kulturalny i szanowujemy opinie innych.</p>
+	</div>
+	<div class="kulturalne">
+		<h2>Zachowanie 8</h2>
+		<p>Jesteśmy  czyści i schludni, dbamy o higienę osobistą i porządek wokół siebie.</p>
+	</div>
+	<div class="kulturalne">
+		<h2>Zachowanie 9</h2>
+		<p>Pomagamy innym i jesteśmy życzliwi.</p>
+	</div>
+	<div class="kulturalne">
+		<h2>Zachowanie 10</h2>
+		<p>Jesteśmy odpowiedzialni i wywiązywujemy się z obowiązków szkolnych.</p>
+	</div>
+</body>
+</html>
